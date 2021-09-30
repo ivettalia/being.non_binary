@@ -1,7 +1,11 @@
 Title: being.non_binary
+
 Student: Ivett Kallai
+
 Lecturer: Dr. Petra Klusmeyer
+
 Semester: SS 2021
+
 Course: Research-Creation, Art Writing, and the Making of Podcasts
 
 being.non_binary
